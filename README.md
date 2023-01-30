@@ -1,3 +1,7 @@
+## Compiled Versions for macOS(darwin/arm64) & Windows(amd64) 
+
+https://github.com/HaochenH/autoadb/releases
+
 # AutoAdb
 
 This command-line tool allows to execute a command whenever a new device is
